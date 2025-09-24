@@ -67,7 +67,6 @@ The goal is to streamline the assignment of support tickets to the correct teams
 
 ## 📊 Deliverables
 - **Screenshots**: Proof of user, group, role, table, ACL, and flow setup.  
-- **Video Demo**: Screen recording of the entire configuration and automation working.  
 - **Documentation**: This README file.  
 
 ## 🚀 Tools Used
