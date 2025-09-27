@@ -65,8 +65,12 @@ The goal is to streamline the assignment of support tickets to the correct teams
 - Action: Auto-assign ticket to **Platform Group**.
 ![Flow Designer Regarding Platform](screenshots/Flow_Designer_Regarding_Platform.png)
 
+## 🎥 Demo Video
+[Click here to watch the demo](https://vimeo.com/1122452843)
+
 ## 📊 Deliverables
 - **Screenshots**: Proof of user, group, role, table, ACL, and flow setup.  
+- **Demo**: A 3-minute video demonstrating ticket assignment workflow and setup. 
 - **Documentation**: This README file.  
 
 ## 🚀 Tools Used
